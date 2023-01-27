@@ -1,4 +1,5 @@
 alx-frontend-javascript | 0x00. ES6 Basics
+
 Description💡
 Javascript ES6
 
@@ -11,49 +12,36 @@ Rest and spread function parameters
 String templating in ES6
 Object creation and their properties in ES6
 Iterators and for-of loops
+
 Technologies & Tools💻
 Jest Git Ubuntu Babel JavaScript GNU_Bash Node.js Vim Vagrant VS_Code ESLint GitHub
 
-Resources📚
-Read or watch:
+https://www.w3schools.com/js/js_es6.asp
 
-ECMAScript 6 - ECMAScript 2015
-Statements and declarations
-Arrow functions
-Default parameters
-Rest parameter
-Javascript ES6 — Iterables and Iterators
 Requirements🔨
 Ubuntu 18.04 LTS using NodeJS 12.22.x
 Jest Testing Framework
 ESLint
+
 Install NodeJS 12.22.x
+
 foo@pop-os:~$ curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
 foo@pop-os:~$ sudo bash nodesource_setup.sh
 foo@pop-os:~$ sudo apt install nodejs -y
+
 Check version
+
 foo@pop-os:~$ nodejs -v
 v12.22.1
 foo@pop-os:~$ npm -v
 6.14.12
+
 Install Jest, Babel, and ESLint
+
 foo@pop-os:~$ npm install --save-dev jest
 foo@pop-os:~$ npm install --save-dev babel-jest @babel/core @babel/preset-env
 foo@pop-os:~$ npm install --save-dev eslint
-.eslintrc.js
-Files🗃️
-0. Const or let?
-1. Block Scope
-2. Arrow functions
-3. Parameter defaults
-4. Rest parameter syntax for functions
-5. The wonders of spread syntax
-6. Take advantage of template literals
-7. Object property value shorthand syntax
-8. No need to create empty objects before adding in properties
-9. ES6 method properties
-10. For...of Loops
-11. Iterator
-12. Let's create a report object
+
+https://github.com/234761/alx-frontend-javascript/blob/master/0x00-ES6_basic/0-constants.js
 Author
 Dagnachew Feyisa(@234761) -    
