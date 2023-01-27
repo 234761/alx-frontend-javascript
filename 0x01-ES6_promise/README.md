@@ -1,0 +1,10 @@
+https://github.com/234761/alx-frontend-javascript/blob/master/0x01-ES6_promise/README.md#0x01-es6-promises
+https://github.com/234761/alx-frontend-javascript/blob/master/0x01-ES6_promise/README.md#descriptionbulb
+https://github.com/234761/alx-frontend-javascript/blob/master/0x01-ES6_promise/README.md#technologies--toolscomputer
+https://github.com/234761/alx-frontend-javascript/blob/master/0x01-ES6_promise/README.md#resourcesbooks
+https://github.com/234761/alx-frontend-javascript/blob/master/0x01-ES6_promise/README.md#requirementshammer
+https://github.com/234761/alx-frontend-javascript/blob/master/0x01-ES6_promise/README.md#install-jest-babel-and-eslint
+https://github.com/234761/alx-frontend-javascript/blob/master/0x01-ES6_promise/README.md#check-version
+https://github.com/234761/alx-frontend-javascript/blob/master/0x01-ES6_promise/README.md#install-jest-babel-and-eslint
+https://github.com/234761/alx-frontend-javascript/blob/master/0x01-ES6_promise/README.md#filescard_file_box
+https://github.com/234761/alx-frontend-javascript/blob/master/0x01-ES6_promise/README.md#author
